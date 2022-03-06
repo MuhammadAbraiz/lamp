@@ -87,7 +87,7 @@ button span {
   position: absolute;
   top: 98%;
   left: 50%;
-  width: 50rem;
+  min-width: 50rem;
   transform: translateX(-50%);
   margin-left: 10px;
   opacity: 0;
