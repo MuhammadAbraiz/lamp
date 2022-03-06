@@ -89,7 +89,7 @@ button span {
   left: 50%;
   width: 50rem;
   transform: translateX(-50%);
-  margin-left: -10px;
+  margin-left: 10px;
   opacity: 0;
   transition: opacity 0.5s;
 }
